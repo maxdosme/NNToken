@@ -1,6 +1,12 @@
-# Sample Hardhat Project
+<!--
+ * @Author: aping
+ * @LastEditors: aping
+ * @LastEditTime: 2022-12-27 09:17:24
+ * @Description: null
+-->
+# NN Token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+NN Token is a Token based on ERC20.
 
 Try running some of the following tasks:
 
